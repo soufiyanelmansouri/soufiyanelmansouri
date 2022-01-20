@@ -2,7 +2,7 @@ Hi, I'm Soufiyan 👩🏾‍💻
 <br>
 <br>
 I'm A Self-taught Passionate Full Stack Mobile Developer From Morocco 🇲🇦
-I really enjoy learning languages and frameworks like Flutter, React and Vue.js, I also started a youtube channel at the start of 2022 to teach what I know and give some things back to the community
+I really enjoy learning languages and frameworks like Flutter, React and Vue.js, I also started a youtube channel at the start of 2022 to teach what I know and give some thing back to the community
 <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soufiyanelmansouri&hide=contribs,prs)
 <br><br>
